@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\Sorted\Sorted\bin\Debug\net6.0\Sorted.exe
+C:\Users\ADAM K\source\repos\Sorted\Sorted\bin\Debug\net6.0\Sorted.deps.json
+C:\Users\ADAM K\source\repos\Sorted\Sorted\bin\Debug\net6.0\Sorted.runtimeconfig.json
+C:\Users\ADAM K\source\repos\Sorted\Sorted\bin\Debug\net6.0\Sorted.dll
+C:\Users\ADAM K\source\repos\Sorted\Sorted\bin\Debug\net6.0\Sorted.pdb
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.dll
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\refint\Sorted.dll
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.pdb
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\Sorted.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\Sorted\Sorted\obj\Debug\net6.0\ref\Sorted.dll
